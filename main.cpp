@@ -6,6 +6,8 @@
 
 using std::cout;
 
+using namespace std;
+
 int main()
 {
     TopTenList* languages = new TopTenList();
